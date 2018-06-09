@@ -1,0 +1,148 @@
+{
+  "playlist": {
+    "schedule": [{
+      "id": "5b11518d1d0a7e3c47977b50",
+      "title": "One Night Only: Cali Combat (ENG)",
+      "starts_at": "2018-06-05T15:43:36Z",
+      "ends_at": "2018-06-05T18:27:26Z",
+      "asset": "f40a4170373d013639c1543d7edaf0a0",
+      "source": "5b06d7781d0a7e4273aa1ae5"
+    }, {
+      "id": "5b11518d1d0a7e3c47977b51",
+      "title": "Impact EP 2018-20 (ENG)",
+      "starts_at": "2018-06-05T18:27:26Z",
+      "ends_at": "2018-06-05T19:54:43Z",
+      "asset": "b498dd703c1801366709543d7edaf0a0",
+      "source": "5b06d7781d0a7e4273aa1ae8"
+    }, {
+      "id": "5b11518d1d0a7e3c47977b52",
+      "title": "KSW 43: Das komplette Event",
+      "starts_at": "2018-06-05T19:54:43Z",
+      "ends_at": "2018-06-06T00:48:57Z",
+      "asset": "f09ea5c0327901364a40543d7edaf0a0",
+      "source": "5b06d7791d0a7e4273aa1aeb"
+    }, {
+      "id": "5b11518e1d0a7e3c47977b53",
+      "title": "Sam Sexton vs. Hughie Fury (ENG) - Catchup",
+      "starts_at": "2018-06-06T00:48:57Z",
+      "ends_at": "2018-06-06T01:35:36Z",
+      "asset": "1b30523037430136ca78543d7edaf0a0",
+      "source": "5b06d7791d0a7e4273aa1aee"
+    }, {
+      "id": "5b11518e1d0a7e3c47977b54",
+      "title": "ranFIGHTING Spotlight - Das Kampfsport-Magazin, Episode 3",
+      "starts_at": "2018-06-06T01:35:36Z",
+      "ends_at": "2018-06-06T01:46:12Z",
+      "asset": "054fa6c03c13013672b5543d7edaf0a0",
+      "source": "5b06d7791d0a7e4273aa1af1"
+    }, {
+      "id": "5b11518e1d0a7e3c47977b55",
+      "title": "BACK UP ASSET: ranFIGHTING Loop 10min",
+      "starts_at": "2018-06-06T01:46:12Z",
+      "ends_at": "2018-06-06T01:56:12Z",
+      "asset": "3f1e04803c1f0136dd97543d7edaf0a0",
+      "source": "5b06d7791d0a7e4273aa1af4"
+    }, {
+      "id": "5b11518e1d0a7e3c47977b56",
+      "title": "BOX-NACHT Indio: Das komplette Event (ENG)",
+      "starts_at": "2018-06-06T01:56:12Z",
+      "ends_at": "2018-06-06T02:43:17Z",
+      "asset": "42099010163301360dd9543d7edaf0a0",
+      "source": "5b06d7791d0a7e4273aa1af7"
+    }, {
+      "id": "5b11518f1d0a7e3c47977b57",
+      "title": "Michael Palandre vs. Youssef Challouki (ENG)",
+      "starts_at": "2018-06-06T02:43:17Z",
+      "ends_at": "2018-06-06T02:56:12Z",
+      "asset": "1bdd6a00163301360d27543d7edaf0a0",
+      "source": "5b06d77a1d0a7e4273aa1afa"
+    }, {
+      "id": "5b11518f1d0a7e3c47977b58",
+      "title": "Ozan Aslaner vs. Rafal Lewon",
+      "starts_at": "2018-06-06T02:56:12Z",
+      "ends_at": "2018-06-06T03:24:34Z",
+      "asset": "04ccdac0163301360cb1543d7edaf0a0",
+      "source": "5b06d77a1d0a7e4273aa1afd"
+    }, {
+      "id": "5b11518f1d0a7e3c47977b59",
+      "title": "Vincent Feigenbutz vs. Crispulo Javier Andino",
+      "starts_at": "2018-06-06T03:24:34Z",
+      "ends_at": "2018-06-06T03:43:31Z",
+      "asset": "9ddc724016310136a7a9543d7edaf0a0",
+      "source": "5b06d77a1d0a7e4273aa1b00"
+    }],
+    "sources": [{
+      "id": "5b06d7781d0a7e4273aa1ae5",
+      "url": "http://origin.vidibus.net/videos/5af56049d902087903000003.smil",
+      "available": true
+    }, {
+      "id": "5b06d7781d0a7e4273aa1ae8",
+      "url": "http://origin.vidibus.net/videos/5afd49bfd90208502b000067.smil",
+      "available": true
+    }, {
+      "id": "5b06d7791d0a7e4273aa1aeb",
+      "url": "http://origin.vidibus.net/videos/5aec71f2d902083e77000030.smil",
+      "available": true
+    }, {
+      "id": "5b06d7791d0a7e4273aa1aee",
+      "url": "http://origin.vidibus.net/videos/5afbed3bd90208502b000028.smil",
+      "available": true
+    }, {
+      "id": "5b06d7791d0a7e4273aa1af1",
+      "url": "http://origin.vidibus.net/videos/5afd4497d90208502b00005e.smil",
+      "available": true
+    }, {
+      "id": "5b06d7791d0a7e4273aa1af4",
+      "url": "http://origin.vidibus.net/videos/5afdb1cdd90208502b00006d.smil",
+      "available": true
+    }, {
+      "id": "5b06d7791d0a7e4273aa1af7",
+      "url": "http://origin.vidibus.net/videos/5af994a6d9020855a90003e1.smil",
+      "available": true
+    }, {
+      "id": "5b06d77a1d0a7e4273aa1afa",
+      "url": "http://origin.vidibus.net/videos/5af994a8d9020855a90003ed.smil",
+      "available": true
+    }, {
+      "id": "5b06d77a1d0a7e4273aa1afd",
+      "url": "http://origin.vidibus.net/videos/5af9949bd9020855a90003a5.smil",
+      "available": true
+    }, {
+      "id": "5b06d77a1d0a7e4273aa1b00",
+      "url": "http://origin.vidibus.net/videos/5af994acd9020855a9000405.smil",
+      "available": true
+    }, {
+      "id": "5b06d77a1d0a7e4273aa1b03",
+      "url": "http://origin.vidibus.net/videos/5af994a6d9020855a90003e7.smil",
+      "available": true
+    }, {
+      "id": "5b06d77a1d0a7e4273aa1b06",
+      "url": "http://origin.vidibus.net/videos/5af384aad902086f6f000144.smil",
+      "available": true
+    }, {
+      "id": "5b06d77b1d0a7e4273aa1b09",
+      "url": "http://origin.vidibus.net/videos/5af37c51d902086f6f000063.smil",
+      "available": true
+    }, {
+      "id": "5b06d7771d0a7e4273aa1ad6",
+      "url": "http://origin.vidibus.net/videos/5af56f4ed90208790300001b.smil",
+      "available": true
+    }, {
+      "id": "5b06d7771d0a7e4273aa1ad9",
+      "url": "http://origin.vidibus.net/videos/5afbfe1bd90208502b00004c.smil",
+      "available": true
+    }, {
+      "id": "5b06d7781d0a7e4273aa1adc",
+      "url": "http://origin.vidibus.net/videos/5afbe889d90208502b00001c.smil",
+      "available": true
+    }, {
+      "id": "5b06d7781d0a7e4273aa1adf",
+      "url": "http://origin.vidibus.net/videos/5afbfda2d90208502b000046.smil",
+      "available": true
+    }, {
+      "id": "5b06d7781d0a7e4273aa1ae2",
+      "url": "http://origin.vidibus.net/videos/5af2f72bd902086f630000f6.smil",
+      "available": true
+    }]
+  }
+}
